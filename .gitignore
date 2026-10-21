@@ -1,0 +1,13 @@
+# Build output (rebuild with build.bat)
+build/
+dist/
+*.spec
+
+# Python
+__pycache__/
+*.pyc
+
+# Working estimates and sample pictures (user data, not source)
+ProCaliber Estimate [0-9]*.xlsx
+Sample.jpg
+~$*.xlsx
